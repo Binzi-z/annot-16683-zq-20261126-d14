@@ -10,4 +10,8 @@ __pycache__/
 .pytest_cache/
 artifacts/
 recordings/
+demo-out/
+_demoout.txt
+_testout.txt
+_fullbench.txt
 *.mp4
